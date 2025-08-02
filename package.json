@@ -1,0 +1,14 @@
+{
+  "name": "encrypted-chat-server",
+  "version": "1.0.0",
+  "description": "A WebSocket server for a post-quantum encrypted chat application.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
